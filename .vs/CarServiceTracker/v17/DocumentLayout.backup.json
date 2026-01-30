@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\controllers\\maintenancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:controllers\\maintenancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380370E5-AC55-4111-BAEA-AC042A797C99}|Services{380370E5-AC55-4111-BAEA-AC042A797C99}|D:\\C#\\CarServiceTracker\\CarServiceTracker\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380370E5-AC55-4111-BAEA-AC042A797C99}|Services{380370E5-AC55-4111-BAEA-AC042A797C99}|solutionrelative:IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|DTOs{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|D:\\C#\\CarServiceTracker\\CarServiceTracker\\UpdateMaintenanceDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|DTOs{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|solutionrelative:UpdateMaintenanceDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\maintenancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:maintenancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|DTOs{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|D:\\C#\\CarServiceTracker\\CarServiceTracker\\UpdateCustomerDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|DTOs{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|solutionrelative:UpdateCustomerDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|DTOs{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|D:\\C#\\CarServiceTracker\\CarServiceTracker\\UpdateCarDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|DTOs{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|solutionrelative:UpdateCarDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\maintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:maintenance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|DTOs{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|D:\\C#\\CarServiceTracker\\CarServiceTracker\\LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|DTOs{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|solutionrelative:LoginDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|d:\\c#\\carservicetracker\\carservicetracker\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D567195-E1FB-4E48-96AA-BCAF3B45F191}|CarServiceTracker.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|DTOs{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|D:\\C#\\CarServiceTracker\\CarServiceTracker\\SearchDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|DTOs{4194EBAE-815C-43D0-917C-D0CD638BF6D3}|solutionrelative:SearchDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAmwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T12:16:50.391Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "CustomerDTO.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\CustomerDTO.cs",
+              "RelativeToolTip": "CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:09:19.787Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:18:38.431Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarDTO.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\CarDTO.cs",
+              "RelativeDocumentMoniker": "CarDTO.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\CarDTO.cs",
+              "RelativeToolTip": "CarDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:15:09.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarsController.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "Controllers\\CarsController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:22:16.949Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthService.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\AuthService.cs",
+              "RelativeToolTip": "AuthService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwv18AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T12:23:02.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaintenancesController.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Controllers\\MaintenancesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MaintenancesController.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Controllers\\MaintenancesController.cs",
+              "RelativeToolTip": "Controllers\\MaintenancesController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:22:35.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Context.cs",
+              "RelativeDocumentMoniker": "Context.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Context.cs",
+              "RelativeToolTip": "Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:42:43.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T16:18:47.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MaintenanceDTO.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\MaintenanceDTO.cs",
+              "RelativeDocumentMoniker": "MaintenanceDTO.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\MaintenanceDTO.cs",
+              "RelativeToolTip": "MaintenanceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T17:23:09.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\IAuthService.cs",
+              "RelativeDocumentMoniker": "IAuthService.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\IAuthService.cs",
+              "RelativeToolTip": "IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T17:53:18.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateMaintenanceDTO.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\UpdateMaintenanceDTO.cs",
+              "RelativeDocumentMoniker": "UpdateMaintenanceDTO.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\UpdateMaintenanceDTO.cs",
+              "RelativeToolTip": "UpdateMaintenanceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:05:57.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateCustomerDTO.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\UpdateCustomerDTO.cs",
+              "RelativeDocumentMoniker": "UpdateCustomerDTO.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\UpdateCustomerDTO.cs",
+              "RelativeToolTip": "UpdateCustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:00:05.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateCarDTO.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\UpdateCarDTO.cs",
+              "RelativeDocumentMoniker": "UpdateCarDTO.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\UpdateCarDTO.cs",
+              "RelativeToolTip": "UpdateCarDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:41:54.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:33:13.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Maintenance.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Maintenance.cs",
+              "RelativeDocumentMoniker": "Maintenance.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Maintenance.cs",
+              "RelativeToolTip": "Maintenance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T17:21:17.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-28T12:16:25.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "LoginDTO.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\LoginDTO.cs",
+              "RelativeToolTip": "LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T17:44:02.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "RegisterDTO.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\RegisterDTO.cs",
+              "RelativeToolTip": "RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:30:09.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:30:19.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SearchDTO.cs",
+              "DocumentMoniker": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\SearchDTO.cs",
+              "RelativeDocumentMoniker": "SearchDTO.cs",
+              "ToolTip": "D:\\C#\\CarServiceTracker\\CarServiceTracker\\SearchDTO.cs",
+              "RelativeToolTip": "SearchDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:16:38.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
